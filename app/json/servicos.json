@@ -1,0 +1,14 @@
+{
+    "fotogrametria": {
+        "titulo": "Fotogrametria",
+        "conteudo": "AGROPECUÁRIA consiste no conjunto de actividades primárias, direitamente associada ao cultivo de plantas (agricultura) e à criação de animais (pecuária) para o consumo humano ou para o fornecimento de matérias-primas."
+    },
+    "pilotagem_drones": {
+        "titulo": "Pilotagem de Drones",
+        "conteudo": "Elaboramos Projectos Arquitectônicos de baixa, média e alta renda, desde o térreo à elevação. Fornecemos todas peças desenhadas e acompanhadas com as redes técnicas (Electrecidade, Canalização, Parabólica e ar condicionado, etc), modelos 3D (perspectivas) e as respectivas memórias descritivas e justificativas com as assinaturas reconhecidas pelos Governos das Provinciais."
+    },
+    "processamento_dados_levantamento_drone": {
+        "titulo": "Processamento de Dados de Levantamento com Drone",
+        "conteudo": "Cartografia é a ciência que representa graficamente uma área geográfica ou uma superfície plana. É o estudo que atua na concepção, produção, divulgação, representação e todo o processo dos mapas. (Associação Cartográfica Internacional)."
+    }
+}

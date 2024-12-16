@@ -1,0 +1,28 @@
+{
+    "pfotogrametria": {
+        "titulo": "Fotogrametria",
+        "p1": "<p class='text-justify'>Princípios base da fotogrametria digital;</p>",
+        "p2": "<p class='text-justify'>Evolução dos sistemas de aquisição;</p>",
+        "p3": "<p class='text-justify'>Evolução dos software de processamento.</p>"
+    },
+    "ppilotagem_drones": {
+        "titulo": "Pilotagem de Drones",
+        "p1": "<p class='text-justify'>Conceito de Drone;</p>",
+        "p2": "<p class='text-justify'>Tipos de veículo;</p>",
+        "p3": "<p class='text-justify'>Componentes principais;</p>",
+        "p4": "<p class='text-justify'>Vantagens e desvantagens vs métodos clássicos;</p>",
+        "p5": "<p class='text-justify'>Segurança e Enquadramento Legal;</p>",
+        "p6": "<p class='text-justify'>Planeamento do apoio de campo;</p>",
+        "p7": "<p class='text-justify'>Planeamento de voo no software Mission Planner.</p>"
+    },
+    "pprocessamento_dados_levantamento_drone": {
+        "titulo": "Processamento de Dados de Levantamento com Drone",
+        "p1": "<p class='text-justify'><b>PROCESSAMENTO FOTOGRAMÉTRICO NO SOFTWARE AGISOFT METASHAPE</b></p>",
+        "p2": "<p class='text-justify'>Triangulação Aérea;</p>",
+        "p4": "<p class='text-justify'>Análise dos erros;</p>",
+        "p5": "<p class='text-justify'>Workflows;</p>",
+        "p6": "<p class='text-justify'>Produtos exportáveis;</p>",
+        "p7": "<p class='text-justify'>Exemplos de produtos gerados;</p>"
+    }
+
+}
